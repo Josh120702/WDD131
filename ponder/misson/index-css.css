@@ -1,0 +1,53 @@
+header{
+    max-width: 60%;
+    margin: 40px auto;
+    padding: 50px;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+}
+h2{
+    text-align: center;
+    color: #035f9c;
+    font-size: 1.3em;
+}
+.intro {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 0 auto 30px;
+    text-align: left;
+    max-width: 650px;
+}
+hr{
+    width: 60%;
+    margin: 0 auto 40px;
+}
+.italic{
+    font-style: italic;
+    text-align: left;
+    margin: 0 auto 15px;
+    max-width: 650px;
+}
+.points{
+    font-size: 20px;
+    list-style: 1.5;
+    padding-left: 30px;
+    text-align: left;
+    margin: 0 auto 15px;
+    max-width: 650px;
+}
+.points li{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+footer{
+    margin-top: 50px;
+}
+#logo{
+    text-align: center;
+}
+footer img{
+    text-align: center;
+    width: 100px;
+}
