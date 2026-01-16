@@ -1,5 +1,5 @@
 
-let selectElem = document.querySelector('select');
+let selectElem = document.querySelector('#choose_a_mode');
 let logo = document.querySelector('img');
 
 selectElem.addEventListener('change', changeTheme);
